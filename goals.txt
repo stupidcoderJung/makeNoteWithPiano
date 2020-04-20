@@ -1,0 +1,4 @@
+first Goal  :   input Jingle Bells note and print piano keys as time goes by.
+ 1. define note
+   a. SheetMusic(악보)
+    - Sheet Music consisits of bars, clef, key signature, time signature, writer and title
